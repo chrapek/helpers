@@ -6,6 +6,8 @@
  * - a jquery selector, eg: $.formClear('.group-of-fields');
  * - a group/array of fields, eg: $.formClear($('.group-of-fields'));
  * - a single field, eg: $.formClear($('input#singleField'));
+ *
+ * @author Szymon Bluma https://github.com/bluemanos
  */
 (function ($) {
     'use strict';
